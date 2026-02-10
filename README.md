@@ -21,3 +21,7 @@ This project helps manage daily tasks with a clean UI and fast performance.
 3. Start the development server:
    ```bash
    npm run dev
+4. Open the app in your browser:
+   ```bash
+   http://localhost:5173
+
